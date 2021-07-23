@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Chussum;&fontColor=2D333B&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-<h3 align="center">👋🏻 Hi there</h3>
+<h3 align="center">👋🏻 &nbsp;Hi there</h3>
 
 <p align="center">
   <a href="https://moood.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
