@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Chussum;&fontColor=white&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Chussum;&fontColor=9b9b9b&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center">👋🏻 Hi there</h3>
 
