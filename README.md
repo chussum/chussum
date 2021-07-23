@@ -20,3 +20,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/chussum/" target="_blank"><img src="https://img.shields.io/badge/Hyungjoo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/devchurro" target="_blank"><img src="https://img.shields.io/badge/devchurro-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
+
+[![DevChu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chussum)](https://github.com/chussum/github-readme-stats)
