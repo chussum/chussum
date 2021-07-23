@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Chussum;&fontColor=2D333B&fontAlignX=45&fontAlignY=65&fontSize=100&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Chussum;&fontColor=2D333B&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 
 <h3 align="center">👋🏻 &nbsp;Hi there</h3>
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
